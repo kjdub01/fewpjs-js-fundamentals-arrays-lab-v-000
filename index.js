@@ -1,1 +1,1 @@
-// Write your solution here!
+const append = ["milo", "otis", "garfield"]
